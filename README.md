@@ -1,3 +1,13 @@
+<img width="1920" height="1080" alt="Screenshot (329)" src="https://github.com/user-attachments/assets/38a54414-1090-4737-be81-7b854c1ff0cc" />
+<img width="1920" height="1080" alt="Screenshot (328)" src="https://github.com/user-attachments/assets/428c02a0-41e0-4b12-bf83-467c3a5544f5" />
+<img width="1920" height="1080" alt="Screenshot (327)" src="https://github.com/user-attachments/assets/702726ed-6389-4443-9c65-b3bb7f152c55" />
+<img width="1920" height="1080" alt="Screenshot (326)" src="https://github.com/user-attachments/assets/b7e7e144-9403-44f8-b157-581dea5fe443" />
+<img width="1920" height="1080" alt="Screenshot (325)" src="https://github.com/user-attachments/assets/81a5d137-92b7-481f-83a6-db5fbb090e49" />
+<img width="1920" height="1080" alt="Screenshot (324)" src="https://github.com/user-attachments/assets/7c7aff30-d9de-4a79-b03f-ae666717018d" />
+<img width="1920" height="1080" alt="Screenshot (323)" src="https://github.com/user-attachments/assets/05b9d076-6eba-416f-b172-1c193feb98e7" />
+<img width="1920" height="1080" alt="Screenshot (331)" src="https://github.com/user-attachments/assets/a8c58dd3-42f8-40d1-8037-f426fd75fc3f" />
+<img width="1920" height="1080" alt="Screenshot (330)" src="https://github.com/user-attachments/assets/53192491-5465-4e5b-b49e-55f088deaa67" />
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
